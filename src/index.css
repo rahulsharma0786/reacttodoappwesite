@@ -11,3 +11,54 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.btn{
+ margin-left: 440px; 
+ background-color:blue;
+}
+
+.todo{
+background-color: blue;
+background-repeat: no-repeat;
+background-size: cover;
+position: absolute;
+width: 155vh;
+height: 100vh;
+}
+
+.img{
+  background-color: aqua;
+}
+
+.fa-plus{
+width: 35px;
+}
+
+.eachItems{
+display: flex
+
+}
+.add-btn {
+  background-color: yellow;
+  height: 20px;
+ 
+  border-radius: 30%;
+  
+}
+.items{
+  margin-left: 420px;
+
+}
+ .fa-trash-alt{
+  width: 35px;
+  margin-top: 10px;
+  
+  
+  
+ }
+ .cinput{
+  margin-left: 20px;
+  }
+ .todo1{
+  width:100px
+ }
+
